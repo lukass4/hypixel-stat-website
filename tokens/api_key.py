@@ -1,0 +1,1 @@
+key = open("tokens\\api_key.txt", "r").read()
